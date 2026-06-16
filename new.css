@@ -1,0 +1,11 @@
+body{
+    background-image: url(emogibg.avif);
+    background-size: cover;
+}
+h1,h2{
+    font-size: 60px;
+    margin-top: 50px;
+    text-align: center;
+    color : black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
